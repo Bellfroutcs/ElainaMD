@@ -11,6 +11,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ├ Dana : ${dana}
 ├ Pulsa : ${pulsa}
 ├ Gopay : ${gopay}
+├ Saweria : https://saweria.co/Bellfroutcs
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
